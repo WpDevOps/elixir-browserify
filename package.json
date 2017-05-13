@@ -1,7 +1,7 @@
 {
-  "name": "laravel-elixir-browserify-official",
-  "version": "0.1.3",
-  "description": "Laravel Elixir Browserify Integration",
+  "name": "@wpdevops/elixir-browserify",
+  "version": "0.0.1",
+  "description": "WpDevOps Elixir Browserify Integration",
   "main": "browserify.js",
   "dependencies": {
     "babel-preset-es2015": "^6.9.0",
@@ -16,7 +16,8 @@
     "watchify": "^3.7.0"
   },
   "keywords": [
-    "laravel",
+    "wpdevops",
+    "wordpress",
     "elixir",
     "browserify"
   ],
