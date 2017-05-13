@@ -1,6 +1,6 @@
 {
   "name": "@wpdevops/elixir-browserify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "WpDevOps Elixir Browserify Integration",
   "main": "browserify.js",
   "dependencies": {
