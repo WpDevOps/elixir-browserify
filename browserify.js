@@ -73,7 +73,7 @@ Elixir.extend('browserify', function(src, output, baseDir, options) {
  function getPaths(src, baseDir, output) {
     return new Elixir.GulpPaths()
         .src(src, baseDir || config.get('assets.js.folder'))
-        .output(output || config.get('public.js.outputFolder'), 'bundle.js');
+        .output(output || config.get('dist.js.outputFolder'), 'bundle.js');
 }
 
 

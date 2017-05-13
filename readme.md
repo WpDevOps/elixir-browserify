@@ -2,7 +2,7 @@
 
 ## Step 1: Install
 
-First ensure, that you're WpDevOps Elixir version is up to date. It should be at least version 6 or newer.
+First ensure, that you're WpDevOps Elixir version is up to date.
 
 ```
 npm install @wpdevops/elixir-browserify --save-dev
